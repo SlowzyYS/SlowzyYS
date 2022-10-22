@@ -1,0 +1,3 @@
+git clone https://github.com/SlowzyYS/CyberSecurity.git
+cd CyberSecurity
+pip install -r requirements.txt
